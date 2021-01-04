@@ -12,9 +12,7 @@ const Wrapper = styled.View`
   justify-content: center;
 `;
 
-const Content = styled.View`
-  /* padding-vertical: 10px; */
-`;
+const Content = styled.View``;
 
 const ContentWrap = styled.View`
   padding-top: 15px;

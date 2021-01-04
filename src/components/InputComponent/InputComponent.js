@@ -34,8 +34,6 @@ const InputComponent = ({
     action(value, error);
   };
 
-  console.log(errorState);
-
   return (
     <Wrapper>
       <Label fontSize="14px" title={title}>
